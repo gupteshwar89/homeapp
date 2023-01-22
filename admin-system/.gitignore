@@ -1,0 +1,9 @@
+venv/
+staticfiles/
+__pycache__/
+dump.rdb
+.env
+migration/__pycache__/
+.coverage
+coverage.xml
+htmlcov/
